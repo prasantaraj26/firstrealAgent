@@ -1,0 +1,444 @@
+[
+  {
+    "rank_by_psychology": 1,
+    "title": "Hamnet",
+    "release_date": "2025-11-26",
+    "tmdb_genres": [
+      "Drama",
+      "Romance",
+      "History"
+    ],
+    "tmdb_rating": 7.729,
+    "storyline_category": "Grief-Induced Artistic Creation",
+    "storyline_description": "Parental loss fuels the creative spark that inspires Shakespeare's Hamlet.",
+    "psychological_rating": 8,
+    "key_themes": [
+      "bereavement",
+      "artistic inspiration",
+      "marital strain",
+      "historical trauma"
+    ],
+    "psychological_analysis": "Hamnet's death induces complicated grief, manifesting as intrusive thoughts and emotional numbness that strain the parents' relationship. The father's sublimation of sorrow into writing illustrates how loss can catalyze profound artistic output while simultaneously exacerbating relational distress.",
+    "overview": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet."
+  },
+  {
+    "rank_by_psychology": 2,
+    "title": "Avatar: Fire and Ash",
+    "release_date": "2025-12-17",
+    "tmdb_genres": [
+      "Science Fiction",
+      "Adventure",
+      "Fantasy"
+    ],
+    "tmdb_rating": 7.37,
+    "storyline_category": "Trauma-Driven Survival",
+    "storyline_description": "Focuses on coping with personal loss while defending home against a new violent threat.",
+    "psychological_rating": 7,
+    "key_themes": [
+      "grief",
+      "intergenerational trauma",
+      "cultural conflict",
+      "survival instinct"
+    ],
+    "psychological_analysis": "Jake Sully's leadership is colored by his unresolved grief over his eldest son, influencing risk assessment and aggression. Neytiri's maternal sorrow intertwines with protective instincts, illustrating how collective trauma shapes group identity and conflict resolution on Pandora.",
+    "overview": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits."
+  },
+  {
+    "rank_by_psychology": 3,
+    "title": "Superman",
+    "release_date": "2025-07-09",
+    "tmdb_genres": [
+      "Science Fiction",
+      "Adventure",
+      "Action"
+    ],
+    "tmdb_rating": 7.341,
+    "storyline_category": "Identity Integration of Alien and Human",
+    "storyline_description": "Clark Kent/Kal-El struggles to reconcile his Kryptonian heritage with his human upbringing as a journalist.",
+    "psychological_rating": 7,
+    "key_themes": [
+      "dual identity",
+      "alienation",
+      "responsibility",
+      "assimilation"
+    ],
+    "psychological_analysis": "Clark experiences acculturative stress as he navigates competing cultural expectations, using his journalistic role as a grounding anchor. The film explores how bicultural identity can generate both strength through unique perspective and internal conflict over belonging and duty.",
+    "overview": "Superman, a journalist in Metropolis, embarks on a journey to reconcile his Kryptonian heritage with his human upbringing as Clark Kent."
+  },
+  {
+    "rank_by_psychology": 4,
+    "title": "The Housemaid",
+    "release_date": "2025-12-18",
+    "tmdb_genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "tmdb_rating": 7.208,
+    "storyline_category": "Servitude and Seduction",
+    "storyline_description": "Examines how power dynamics and desire blur boundaries for a woman trying to escape her past.",
+    "psychological_rating": 6,
+    "key_themes": [
+      "class disparity",
+      "sexual manipulation",
+      "secrecy",
+      "autonomy"
+    ],
+    "psychological_analysis": "Millie's attempt to outrun her history leads her into a coercive arrangement where intimacy is traded for safety, highlighting vulnerability to manipulation. The film shows how trauma survivors can be re‑victimized through subtle psychological entrapment masked as affection.",
+    "overview": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream job quickly unravels into something far more dangerous—a sexy, seductive game of secrets, scandal, and power."
+  },
+  {
+    "rank_by_psychology": 5,
+    "title": "Predator: Badlands",
+    "release_date": "2025-11-05",
+    "tmdb_genres": [
+      "Action",
+      "Science Fiction",
+      "Adventure"
+    ],
+    "tmdb_rating": 7.695,
+    "storyline_category": "Honor and Outcast Redemption",
+    "storyline_description": "A young Predator seeks validation by bonding with a damaged android while pursuing the ultimate prey.",
+    "psychological_rating": 6,
+    "key_themes": [
+      "honor",
+      "identity",
+      "alienation",
+      "AI‑human bond"
+    ],
+    "psychological_analysis": "Exile triggers an identity crisis for the Predator, whose cultural code equates worth with victorious hunts. The alliance with the android reflects a projection of companionship needs, and the hunt for a superior adversary mirrors an internal quest for self‑validation and belonging.",
+    "overview": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary."
+  },
+  {
+    "rank_by_psychology": 6,
+    "title": "Jurassic World Rebirth",
+    "release_date": "2025-07-01",
+    "tmdb_genres": [
+      "Science Fiction",
+      "Adventure",
+      "Action"
+    ],
+    "tmdb_rating": 6.275,
+    "storyline_category": "Ethics of Genetic Exploitation",
+    "storyline_description": "A covert mission to harvest dinosaur DNA reveals the moral cost of resurrecting extinct species for profit.",
+    "psychological_rating": 6,
+    "key_themes": [
+      "genetic ethics",
+      "corporate greed",
+      "survival",
+      "family"
+    ],
+    "psychological_analysis": "Operatives experience moral injury when realizing that their utilitarian goals inflict suffering on sentient beings, contrasted with the innocence of a civilian family caught in the crossfire. The film highlights cognitive dissonance between duty, empathy, and the allure of scientific advancement.",
+    "overview": "Five years after the events of Jurassic World Dominion, covert operations expert Zora Bennett is contracted to lead a skilled team on a top-secret mission to secure genetic material from the world's three most massive dinosaurs. When Zora's operation intersects with a civilian family whose boating expedition was capsized, they all find themselves stranded on an island where they come face-to-face with a sinister, shocking discovery that's been hidden from the world for decades."
+  },
+  {
+    "rank_by_psychology": 7,
+    "title": "Now You See Me: Now You Don't",
+    "release_date": "2025-11-12",
+    "tmdb_genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "tmdb_rating": 6.513,
+    "storyline_category": "Illusion versus Corruption",
+    "storyline_description": "Magicians use deception to dismantle a criminal empire built on diamond trafficking.",
+    "psychological_rating": 6,
+    "key_themes": [
+      "deception",
+      "justice",
+      "loyalty",
+      "redemption"
+    ],
+    "psychological_analysis": "The Horsemen's skill in misdirection blurs the line between ethical and illicit means, raising questions about the morality of using illegal tactics for a greater good. Their reunion tests trust, showing how expertise in illusion can serve as both weapon and shield in moral ambiguity.",
+    "overview": "The original Four Horsemen reunite with a new generation of illusionists to take on powerful diamond heiress Veronika Vanderberg, who leads a criminal empire built on money laundering and trafficking. The new and old magicians must overcome their differences to work together on their most ambitious heist yet."
+  },
+  {
+    "rank_by_psychology": 8,
+    "title": "Hunting Season",
+    "release_date": "2025-12-05",
+    "tmdb_genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "tmdb_rating": 6.9,
+    "storyline_category": "Protection Cycle and Vengeance",
+    "storyline_description": "A survivalist's defensive instincts entangle his family in a spiraling revenge feud after rescuing a stranger.",
+    "psychological_rating": 6,
+    "key_themes": [
+      "paternal protection",
+      "trauma",
+      "revenge",
+      "survival"
+    ],
+    "psychological_analysis": "The protagonist's protective drive triggers a feedback loop of violence, illustrating how trauma can rewrite moral boundaries and perpetuate cycles of retribution. The daughter's perspective reveals intergenerational transmission of fear and the psychological cost of living under constant threat.",
+    "overview": "When a reclusive survivalist and his daughter rescue a mysterious, wounded woman from a river, they become entangled in a deadly web of violence and revenge, forcing them to confront a brutal criminal to survive."
+  },
+  {
+    "rank_by_psychology": 9,
+    "title": "Sinners",
+    "release_date": "2025-04-16",
+    "tmdb_genres": [
+      "Horror",
+      "Action",
+      "Thriller"
+    ],
+    "tmdb_rating": 7.5,
+    "storyline_category": "Homecoming and Inherited Evil",
+    "storyline_description": "Twin brothers return to their hometown seeking renewal, only to confront an inherited supernatural menace.",
+    "psychological_rating": 6,
+    "key_themes": [
+      "redemption",
+      "family legacy",
+      "evil",
+      "brotherhood"
+    ],
+    "psychological_analysis": "The brothers' attempt to outrun their troubled past triggers confrontation with repressed trauma manifesting as an external evil force. This return to origin illustrates how confronting inherited guilt can both heal old wounds and reawaken psychological scars.",
+    "overview": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back."
+  },
+  {
+    "rank_by_psychology": 10,
+    "title": "Osiris",
+    "release_date": "2025-07-25",
+    "tmdb_genres": [
+      "Science Fiction",
+      "Action",
+      "Horror"
+    ],
+    "tmdb_rating": 5.989,
+    "storyline_category": "Survival Horror and Loss of Agency",
+    "storyline_description": "Elite soldiers are abducted by an alien ship and stripped of control, becoming prey to an incomprehensible predator.",
+    "psychological_rating": 6,
+    "key_themes": [
+      "helplessness",
+      "instinct vs. training",
+      "alien other",
+      "camaraderie"
+    ],
+    "psychological_analysis": "The sudden loss of agency provokes acute stress reactions, where highly trained responses clash with helplessness, heightening risk for trauma. Group dynamics shift as traditional hierarchy erases under existential threat, forcing reliance on primal cooperation for survival.",
+    "overview": "Special Forces commandos on a mission are abducted mid-operation by a mysterious spacecraft. Upon waking aboard, they find themselves prey to a relentless alien race in a fight for survival."
+  },
+  {
+    "rank_by_psychology": 11,
+    "title": "A Desert",
+    "release_date": "2025-05-02",
+    "tmdb_genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "tmdb_rating": 6.1,
+    "storyline_category": "Descent into Moral Darkness",
+    "storyline_description": "A photographer's innocuous road trip spirals into psychological horror after falling under the sway of a reckless couple.",
+    "psychological_rating": 6,
+    "key_themes": [
+      "voyeurism",
+      "moral corruption",
+      "fate",
+      "isolation"
+    ],
+    "psychological_analysis": "The protagonist's initial curiosity evolves into complicity, as the couple's recklessness mirrors his own latent darkness. Situational factors erode moral restraint, illustrating how ordinary individuals can be drawn into malevolent actions under compelling social influence.",
+    "overview": "A photographer’s road trip takes a dark turn when he befriends a reckless couple, plunging him into a nightmarish neo-noir spiral of unpredictable horror."
+  },
+  {
+    "rank_by_psychology": 12,
+    "title": "F1",
+    "release_date": "2025-06-25",
+    "tmdb_genres": [
+      "Action",
+      "Drama"
+    ],
+    "tmdb_rating": 7.752,
+    "storyline_category": "Legacy Mentorship and Aging Ambition",
+    "storyline_description": "A racing legend returns to mentor a young hotshot while chasing one last shot at glory.",
+    "psychological_rating": 6,
+    "key_themes": [
+      "aging",
+      "mentorship",
+      "rivalry",
+      "redemption"
+    ],
+    "psychological_analysis": "Sonny's return reflects Erikson's generativity versus stagnation stage, where mentoring allows him to confront mortality while fostering the youth's growth. The intergenerational bond serves as a psychological conduit for revitalizing identity and reconciling past achievements with present purpose.",
+    "overview": "Racing legend Sonny Hayes is coaxed out of retirement to lead a struggling Formula 1 team—and mentor a young hotshot driver—while chasing one more chance at glory."
+  },
+  {
+    "rank_by_psychology": 13,
+    "title": "The Death That Awaits",
+    "release_date": "2025-02-06",
+    "tmdb_genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "tmdb_rating": 6.029,
+    "storyline_category": "Caregiving Amid Unknowable Horror",
+    "storyline_description": "A drifter tending to a sick teen undergoing a mysterious transformation confronts incomprehensible metamorphosis while providing care.",
+    "psychological_rating": 6,
+    "key_themes": [
+      "caregiving",
+      "bodily horror",
+      "uncertainty",
+      "empathy"
+    ],
+    "psychological_analysis": "The drifter's empathy is tested by the teen's uncanny change, triggering existential dread and feelings of helplessness. The family's desperate attempts to halt the transformation reveal maladaptive coping, illustrating how proximity to horror can induce vicarious trauma and strain caregiving resilience.",
+    "overview": "A drifter searching for answers to a mystery from her past takes on a job looking after a sick teen who is undergoing a mysterious transformation her family will do anything to stop."
+  },
+  {
+    "rank_by_psychology": 14,
+    "title": "Zootopia 2",
+    "release_date": "2025-11-26",
+    "tmdb_genres": [
+      "Animation",
+      "Family",
+      "Mystery",
+      "Adventure",
+      "Comedy"
+    ],
+    "tmdb_rating": 7.601,
+    "storyline_category": "Interspecies Trust and Bias",
+    "storyline_description": "Explores how a rookie fox and bunny partnership navigates prejudice while solving a city‑wide mystery.",
+    "psychological_rating": 5,
+    "key_themes": [
+      "prejudice",
+      "trust",
+      "identity",
+      "teamwork"
+    ],
+    "psychological_analysis": "Judy's optimism confronts Nick's ingrained cynicism, forcing each to confront stereotypes about the other's species. Their undercover work creates contact opportunities that reduce bias, illustrating the psychological power of cooperative interdependence.",
+    "overview": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De'Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before."
+  },
+  {
+    "rank_by_psychology": 15,
+    "title": "War of the Worlds",
+    "release_date": "2025-07-29",
+    "tmdb_genres": [
+      "Science Fiction",
+      "Thriller"
+    ],
+    "tmdb_rating": 4.142,
+    "storyline_category": "Paranoia and Institutional Distrust",
+    "storyline_description": "Follows an analyst whose faith in government erodes as he questions a concealed extraterrestrial threat.",
+    "psychological_rating": 5,
+    "key_themes": [
+      "surveillance",
+      "conspiracy",
+      "truth vs. security",
+      "existential threat"
+    ],
+    "psychological_analysis": "Will's analytical mindset clashes with opacity, producing cognitive dissonance that fuels paranoia. The narrative demonstrates how uncertainty and lack of transparency erode trust in authorities and heighten existential anxiety.",
+    "overview": "Will Radford is a top analyst for Homeland Security who tracks potential threats through a mass surveillance program, until one day an attack by an unknown entity leads him to question whether the government is hiding something from him... and from the rest of the world."
+  },
+  {
+    "rank_by_psychology": 16,
+    "title": "KPop Demon Hunters",
+    "release_date": "2025-06-20",
+    "tmdb_genres": [
+      "Fantasy",
+      "Music",
+      "Comedy",
+      "Animation"
+    ],
+    "tmdb_rating": 8.021,
+    "storyline_category": "Celebrity Guardianship and Dual Identity",
+    "storyline_description": "K‑pop idols balance public fame with secret supernatural duties to protect their fans.",
+    "psychological_rating": 5,
+    "key_themes": [
+      "fame",
+      "responsibility",
+      "supernatural",
+      "teamwork"
+    ],
+    "psychological_analysis": "Maintaining a glittering persona while engaging in dangerous nocturnal battles creates identity splitting and chronic stress. The pressure of fan adoration fuels both motivation and anxiety, illustrating the psychological toll of celebrity duality.",
+    "overview": "When K-pop superstars Rumi, Mira and Zoey aren't selling out stadiums, they're using their secret powers to protect their fans from supernatural threats."
+  },
+  {
+    "rank_by_psychology": 17,
+    "title": "In Your Dreams",
+    "release_date": "2025-11-07",
+    "tmdb_genres": [
+      "Animation",
+      "Family",
+      "Comedy",
+      "Adventure",
+      "Fantasy"
+    ],
+    "tmdb_rating": 6.973,
+    "storyline_category": "Dreamworld Wish Fulfillment",
+    "storyline_description": "Siblings venture into a surreal dreamscape to ask the Sandman for an ideal family life.",
+    "psychological_rating": 5,
+    "key_themes": [
+      "desire for family",
+      "escapism",
+      "sibling bond",
+      "imagination"
+    ],
+    "psychological_analysis": "The dream realm operates as a projection of unconscious longing, where bizarre symbolism reflects the mind's effort to process unmet needs. Navigating this fantastical landscape serves as emotional regulation, allowing the siblings to confront and re‑frame their waking frustrations.",
+    "overview": "Stevie and her little brother Elliot journey into the wildly absurd landscape of their own dreams to ask the Sandman to grant them the perfect family."
+  },
+  {
+    "rank_by_psychology": 18,
+    "title": "David",
+    "release_date": "2025-12-14",
+    "tmdb_genres": [
+      "Animation",
+      "Family",
+      "Drama",
+      "Music"
+    ],
+    "tmdb_rating": 8.1,
+    "storyline_category": "Faith-Fueled Underdog Triumph",
+    "storyline_description": "A young shepherd's spiritual conviction enables him to defeat a formidable giant and protect his people.",
+    "psychological_rating": 5,
+    "key_themes": [
+      "faith",
+      "courage",
+      "divine destiny",
+      "underdog"
+    ],
+    "psychological_analysis": "David's reliance on faith provides psychological resilience, reducing fear and fostering courage in the face of overwhelming odds. The narrative demonstrates how meaning‑making through belief can buffer threat responses and empower individuals to act beyond their perceived limits.",
+    "overview": "From the songs of his mother’s heart to the whispers of a faithful God, David’s story begins in quiet devotion. When the giant Goliath rises to terrorize a nation, a young shepherd armed with only a sling, a few stones, and unshakable faith steps forward. Pursued by power and driven by purpose, his journey tests the limits of loyalty, love, and courage—culminating in a battle not just for a crown, but for the soul of a kingdom."
+  },
+  {
+    "rank_by_psychology": 19,
+    "title": "Anaconda",
+    "release_date": "2025-12-24",
+    "tmdb_genres": [
+      "Adventure",
+      "Comedy",
+      "Horror"
+    ],
+    "tmdb_rating": 5.867,
+    "storyline_category": "Midlife Crisis Adventure",
+    "storyline_description": "A group of friends confront aging and regret through a reckless quest to relive a youthful film.",
+    "psychological_rating": 4,
+    "key_themes": [
+      "nostalgia",
+      "mortality",
+      "friendship",
+      "recklessness"
+    ],
+    "psychological_analysis": "The desire to remake a favorite movie serves as a denial mechanism for aging, pushing the characters into peril that forces confrontation with vulnerability. Humor masks underlying existential dread, revealing how midlife crises manifest in risky nostalgia‑driven behavior.",
+    "overview": "A group of friends facing mid-life crises head to the rainforest with the intention of remaking their favorite movie from their youth, only to find themselves in a fight for their lives against natural disasters, giant snakes and violent criminals."
+  },
+  {
+    "rank_by_psychology": 20,
+    "title": "The SpongeBob Movie: Search for SquarePants",
+    "release_date": "2025-12-16",
+    "tmdb_genres": [
+      "Animation",
+      "Family",
+      "Comedy",
+      "Adventure",
+      "Fantasy"
+    ],
+    "tmdb_rating": 6.8,
+    "storyline_category": "Insecurity-Driven Heroic Quest",
+    "storyline_description": "SpongeBob seeks bravery by following a ghost pirate, driven by self‑doubt about his worth.",
+    "psychological_rating": 4,
+    "key_themes": [
+      "self‑esteem",
+      "courage",
+      "friendship",
+      "adventure"
+    ],
+    "psychological_analysis": "SpongeBob's reliance on external validation reveals a fragile self‑concept that hinges on others' approval. His encounters with fearsome figures provide graded exposure to fear, facilitating incremental growth in self‑efficacy and illustrating a developmental path from insecurity to courage.",
+    "overview": "Desperate to be a big guy, SpongeBob sets out to prove his bravery to Mr. Krabs by following The Flying Dutchman – a mysterious swashbuckling ghost pirate – on a seafaring adventure that takes him to the deepest depths of the deep sea, where no Sponge has gone before."
+  }
+]
